@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println(chaitanya.getName());
         System.out.println(chaitanya);
+        System.out.println(chaitanya.getRollNumber());
     }
 }
